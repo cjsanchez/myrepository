@@ -1,2 +1,3 @@
-# myrepository
-first repository to hopefully add small random things I do
+MyRepository!
+=====================================================
+Hello World! Welcome to my repository. Look a little lonely here, but hopefully that will change soon.
